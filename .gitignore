@@ -102,3 +102,8 @@ typings/
 
 
 /dev_modules/@local
+
+.vscode
+.vs
+.sf
+.sfdx
